@@ -2,7 +2,7 @@
 独自开发基于包检测和贝叶斯算法的webshell检查程序
 
 主文件:main.py
-port_name 指定网卡名称<\br>
+port_name 指定网卡名称<br>
 port_filter 制定过滤<\br>
 
 拆包器:listen_traffic.py<\br>
