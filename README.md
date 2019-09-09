@@ -1,5 +1,5 @@
 # Machine-Learning-Bayesian-Algorithm-Packet-Inspection-webshell-discover
-独自开发基于包检测和贝叶斯算法的webshell检查程序<br>
+基于包检测和贝叶斯算法的webshell检查程序<br>
 <br>
 主文件:main.py<br>
 port_name 指定网卡名称<br>
