@@ -12,7 +12,7 @@ port_filter 制定过滤<br>
 使用贝叶斯算法，对于shell学习。<br>
 <br>
 webshell文件夹:shell<br>
-这里面是webshell文件,明明规则是 <normal\shell>-<文件类型>-<特征>-<文件编号>-<文件后缀>，例如:normal-php-code-3.php<br>
+这里面是webshell文件,命名规则是 <normal\shell>-<文件类型>-<特征>-<文件编号>-<文件后缀>，例如:normal-php-code-3.php<br>
 
 <br>
 备注:不支持from-data检测,并且检测率并不高。<br>
