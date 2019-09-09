@@ -3,7 +3,7 @@
 <br>
 主文件:main.py<br>
 port_name 指定网卡名称<br>
-port_filter 制定过滤<br>
+port_filter 按照语法设置过滤条件<br>
 <br>
 拆包器:listen_traffic.py<br>
 主要用于拆包，提取HTTP请求中的特征。<br>
