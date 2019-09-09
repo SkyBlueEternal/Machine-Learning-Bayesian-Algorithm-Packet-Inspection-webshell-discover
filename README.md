@@ -16,3 +16,9 @@ webshell文件夹:shell<br>
 
 <br>
 备注:不支持from-data检测,并且检测率并不高。<br>
+
+<br>
+测试情况<br>
+告警信息:<br>
+![image](https://github.com/SkyBlueEternal/Machine-Learning-Bayesian-Algorithm-Packet-Inspection-webshell-discover/blob/master/image/%E6%B5%8B%E8%AF%95%E5%91%8A%E8%AD%A6.png)<br>
+![image](https://github.com/SkyBlueEternal/Machine-Learning-Bayesian-Algorithm-Packet-Inspection-webshell-discover/blob/master/image/%E6%B5%8B%E8%AF%95%E6%AD%A3%E5%B8%B8.png)<br>
